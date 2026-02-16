@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Estoy construyendo mi camino en el mundo del código mientras combino mis habilidades de branding con nuevas tecnologías.
 
 ## 🚀 Sobre mí
-- 🌱 Actualmente aprendiendo **Java, PHP, CSS y Git**.  
+- 🌱 Actualmente aprendiendo **C#,SQL Server,Java, PHP, CSS y Git**.  
 - 🔧 Practicando **Bash** y explorando cómo organizar mis proyectos con control de versiones.  
 - 🎨 Con experiencia en **branding visual y diseño de logos**, ahora aplicando esa creatividad al desarrollo.  
 - 📚 Me gusta aprender con ejemplos prácticos y guías paso a paso.  
